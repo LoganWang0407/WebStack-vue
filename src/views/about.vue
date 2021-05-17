@@ -52,7 +52,7 @@
                         </a>
                         <div class="xe-comment">
                           <a href="#" class="xe-user-name overflowClip_1">
-                            <strong>Designer. Viggo.</strong>
+                            <strong>Designer. Logan.</strong>
                           </a>
                           <p class="overflowClip_2"> Full-time UI designer with an enduring interest in Coding.</p>
                         </div>
