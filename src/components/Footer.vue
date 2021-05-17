@@ -3,9 +3,9 @@
     <div class="footer-inner">
       <!-- 版权信息 -->
       <div class="footer-text">
-        &copy; 2017-2019
-        <a href="#"><strong>WebStack</strong></a> 
-        design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a>
+        &copy; 2021
+        design by<a href="#"><strong>WebStack</strong></a> 
+        Modify by <a href="http://blog.ultrafuns.com" target="_blank"><strong>Logan</strong></a>
       </div>
       
       <div class="go-up">
