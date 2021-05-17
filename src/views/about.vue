@@ -31,8 +31,8 @@
                       <p>有一段时间我发现我的收藏夹越来越多，很难找到某个不常用的网站。
                         所以就有了这个网站，这里收集的基本都是我自己浏览器收藏夹里的网站，我平时用的相对比较多的一些都在这里。</p>
                       <br />
-                      <p>如果你也是设计师，如果你也正好喜欢设计，那希望这个网站能给你带来一些作用。</p>
-                      <p>闲聊或者有任何建议都可以加QQ群交流：304584722</p>
+                      <p>这只是一个导航网站，整理个人浏览器书签网址。</p>
+                      <p>收集各大博友个人网站、实用工具网站、导航网站等等</p>
                     </blockquote>
                   </div>
                 </div>
@@ -41,11 +41,11 @@
                 <div class="row">
                   <div class="col-sm-4">
                     <div class="xe-widget xe-conversations box2 label-info"
-                         onclick="window.open('http://www.viggoz.com/', '_blank')"
+                         onclick="window.open('http://blog.ultrafuns.com/', '_blank')"
                          data-toggle="tooltip"
                          data-placement="bottom"
                          title=""
-                         data-original-title="http://www.viggoz.com/">
+                         data-original-title="http://blog.ultrafuns.com/">
                       <div class="xe-comment-entry">
                         <a class="xe-user-img">
                           <img :src="authorImg" class="img-circle" width="40">
