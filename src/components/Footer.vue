@@ -3,7 +3,7 @@
     <div class="footer-inner">
       <!-- 版权信息 -->
       <div class="footer-text">
-        &copy; 2021
+        Copyright &copy; 2021
         design by<a href="#"><strong>WebStack</strong></a> 
         Modify by <a href="http://blog.ultrafuns.com" target="_blank"><strong>Logan</strong></a>
       </div>
